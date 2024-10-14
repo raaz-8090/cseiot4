@@ -1,0 +1,6 @@
+welcome to mvit
+<<<<<<< Updated upstream
+usn is 1MV23CS130
+=======
+what is your usn
+>>>>>>> Stashed changes
