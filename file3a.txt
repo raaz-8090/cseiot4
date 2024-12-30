@@ -1,7 +1,0 @@
-welcome to mvit
-<<<<<<< Updated upstream
-usn is 1MV23ic004
-=======
-what is your usn
->>>>>>> Stashed changes
-kalamkaar
